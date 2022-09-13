@@ -2,7 +2,7 @@
 - Tugas setiap pertemuan
   - online
 - UTS Praktikum
-  - bengkel
   - kelas
+  - bengkel
 - UAS Presentasi
 - Pakai Hitam Putih Kalau Ujian
