@@ -3,5 +3,6 @@
   - online
 - UTS Praktikum
   - kelas
+  - bengkel
 - UAS Presentasi
 - Pakai Hitam Putih Kalau Ujian
